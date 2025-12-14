@@ -1,0 +1,15 @@
+# Entornos
+.venv/
+__pycache__/
+
+# Datos
+data/raw/
+data/processed/
+data/split/
+
+# Modelos
+models/*.h5
+
+# Sistema
+.DS_Store
+Thumbs.db
