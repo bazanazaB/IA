@@ -1,0 +1,11 @@
+{"instruction": "¿Qué es fine-tuning?", "input": "", "output": "Fine-tuning es ajustar un modelo preentrenado para una tarea específica usando nuevos datos."}
+{"instruction": "¿Qué es un algoritmo?", "input": "", "output": "Un algoritmo es un conjunto de pasos ordenados que se siguen para resolver un problema o realizar una tarea específica."}
+{"instruction": "¿Qué es una API?", "input": "", "output": "Es una interfaz que permite que diferentes programas se comuniquen entre sí."}
+{"instruction": "¿Qué es una librería?", "input": "", "output": "Es un conjunto de funciones y herramientas reutilizables para facilitar la programación."}
+{"instruction": "¿Qué es GitHub?", "input": "", "output": "GitHub es una plataforma para alojar repositorios y colaborar en proyectos usando Git."}
+{"instruction": "Explícame la diferencia entre una lista y un arreglo.", "input": "", "output": "Un arreglo suele tener un tamaño fijo y los elementos se almacenan de forma continua en memoria.\nUna lista, en cambio, puede crecer o reducirse dinámicamente.\nEsto hace que los arreglos sean más rápidos para acceder a posiciones específicas.\nLas listas son más flexibles, pero pueden ser un poco más lentas.\nLa elección depende del problema que estés resolviendo."}
+{"instruction": "Dame un ejemplo simple de programación dinámica.", "input": "", "output": "Calcular la serie de Fibonacci guardando resultados anteriores para no repetir cálculos es un ejemplo clásico de programación dinámica."}
+{"instruction": "¿Para qué sirve la recursión?", "input": "", "output": "Sirve para resolver problemas que tienen una estructura repetitiva, como recorrer árboles o calcular factoriales."}
+{"instruction": "¿Para qué sirve el conjunto de validación?", "input": "", "output": "Sirve para evaluar el modelo durante el entrenamiento y evitar overfitting."}
+{"instruction": "Explícame BFS como si tuviera 10 años.", "input": "", "output": "BFS es como explorar un edificio piso por piso, revisando todas las habitaciones cercanas antes de subir al siguiente piso."}
+{"instruction": "¿Qué es machine learning?", "input": "", "output": "Machine learning es una rama de la inteligencia artificial que permite a las máquinas aprender a partir de datos."}

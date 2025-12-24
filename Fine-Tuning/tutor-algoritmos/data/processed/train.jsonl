@@ -1,0 +1,176 @@
+{"instruction": "¿Qué es software libre?", "input": "", "output": "Es software que puede usarse, modificarse y distribuirse libremente."}
+{"instruction": "¿Qué es un algoritmo voraz?", "input": "", "output": "Un algoritmo voraz toma la mejor decisión posible en cada paso esperando obtener una solución óptima."}
+{"instruction": "¿Qué es control de versiones?", "input": "", "output": "Es un sistema que permite guardar y gestionar cambios en el código a lo largo del tiempo."}
+{"instruction": "¿Qué es un lenguaje compilado?", "input": "", "output": "Es un lenguaje que se traduce completamente a código máquina antes de ejecutarse."}
+{"instruction": "Explícame qué es LoRA de forma didáctica.", "input": "", "output": "LoRA es una técnica para entrenar modelos grandes de forma ligera.\nEn lugar de cambiar todo el modelo, ajusta pequeñas partes.\nEsto ahorra memoria y tiempo.\nEs ideal cuando tienes recursos limitados.\nPor eso se usa mucho en fine-tuning."}
+{"instruction": "¿Qué es un árbol binario de búsqueda?", "input": "", "output": "Es un árbol donde los valores menores van a la izquierda y los mayores a la derecha."}
+{"instruction": "Explícame qué es el sobreajuste.", "input": "", "output": "El sobreajuste ocurre cuando un modelo aprende demasiado bien los datos de entrenamiento.\nEsto hace que funcione mal con datos nuevos.\nEs como memorizar respuestas sin entenderlas.\nPara evitarlo, se usan validación y regularización.\nUn buen modelo debe generalizar bien."}
+{"instruction": "¿Para qué sirve el conjunto de prueba?", "input": "", "output": "Sirve para evaluar el desempeño final del modelo con datos nunca vistos."}
+{"instruction": "¿Qué es una pila (stack)?", "input": "", "output": "Una pila es una estructura de datos que funciona con el principio LIFO: el último en entrar es el primero en salir."}
+{"instruction": "¿Qué es DFS?", "input": "", "output": "DFS (Depth-First Search) es un algoritmo que explora un camino completo en un grafo antes de retroceder y probar otros caminos."}
+{"instruction": "¿Qué es insertion sort?", "input": "", "output": "Insertion sort ordena una lista insertando cada elemento en su posición correcta dentro de la parte ya ordenada."}
+{"instruction": "¿En qué se diferencia BFS de DFS?", "input": "", "output": "BFS explora por niveles y DFS explora por profundidad, yendo lo más lejos posible antes de regresar."}
+{"instruction": "¿Qué es un caso base en recursión?", "input": "", "output": "Es la condición que detiene la recursión y evita que la función se llame infinitamente."}
+{"instruction": "¿Qué es la programación dinámica?", "input": "", "output": "La programación dinámica es una técnica que resuelve problemas grandes dividiéndolos en subproblemas más pequeños y reutilizando sus resultados."}
+{"instruction": "Explícame qué es el entrenamiento de un modelo.", "input": "", "output": "Entrenar un modelo significa mostrarle muchos ejemplos.\nA partir de ellos, ajusta sus parámetros internos.\nEl objetivo es que aprenda a dar mejores respuestas.\nEste proceso requiere datos, tiempo y recursos.\nLa calidad del entrenamiento depende mucho del dataset."}
+{"instruction": "¿Qué significa O(log n)?", "input": "", "output": "O(log n) indica que el tiempo de ejecución crece muy lentamente al aumentar la entrada, como en la búsqueda binaria."}
+{"instruction": "¿Qué es una heurística?", "input": "", "output": "Una heurística es una regla que ayuda a encontrar soluciones rápidas aunque no siempre óptimas."}
+{"instruction": "¿Qué es la búsqueda binaria?", "input": "", "output": "La búsqueda binaria es un algoritmo que encuentra un elemento en una lista ordenada dividiendo la lista a la mitad en cada paso."}
+{"instruction": "Explícame la notación Big O como si fuera un profesor.", "input": "", "output": "La notación Big O es una forma de describir el comportamiento de un algoritmo cuando los datos crecen.\nNos indica el peor caso posible en términos de tiempo o memoria.\nPor ejemplo, O(n) significa que el tiempo crece de forma proporcional al número de elementos.\nNo busca ser exacta, sino darnos una idea clara del rendimiento.\nEs muy usada para comparar algoritmos entre sí."}
+{"instruction": "Explícame qué es programación modular.", "input": "", "output": "La programación modular consiste en dividir un programa en partes pequeñas.\nCada módulo se encarga de una tarea específica.\nEsto hace el código más fácil de entender y mantener.\nAdemás, permite reutilizar código en otros proyectos.\nEs una buena práctica en cualquier lenguaje."}
+{"instruction": "¿Qué significa O(n)?", "input": "", "output": "O(n) significa que el tiempo de ejecución crece de forma proporcional al tamaño de la entrada."}
+{"instruction": "Explícame la recursión como si fuera una clase.", "input": "", "output": "La recursión ocurre cuando una función se llama a sí misma.\nCada llamada resuelve una parte pequeña del problema.\nPara que funcione bien, siempre debe existir un caso base.\nEl caso base es el que detiene las llamadas recursivas.\nBien usada, la recursión hace el código más claro y elegante."}
+{"instruction": "Explícame qué es la complejidad temporal de forma sencilla.", "input": "", "output": "La complejidad temporal nos dice cuánto tiempo tarda un algoritmo en ejecutarse.\nNo se mide en segundos, sino en cómo crece el tiempo cuando aumenta el tamaño de los datos.\nPor ejemplo, no es lo mismo revisar 10 elementos que 1 millón.\nEsta medida nos ayuda a comparar algoritmos y elegir el más adecuado.\nEs una herramienta clave para escribir programas eficientes."}
+{"instruction": "¿Qué es un modelo de lenguaje?", "input": "", "output": "Es un modelo que aprende a predecir y generar texto en lenguaje natural."}
+{"instruction": "¿Qué es el algoritmo de Dijkstra?", "input": "", "output": "Es un algoritmo que encuentra el camino más corto desde un nodo a todos los demás en un grafo con pesos positivos."}
+{"instruction": "¿Qué es código abierto?", "input": "", "output": "Es código cuyo funcionamiento interno es visible y accesible para todos."}
+{"instruction": "¿Qué es una lista enlazada?", "input": "", "output": "Una lista enlazada es una estructura donde cada elemento apunta al siguiente, permitiendo inserciones eficientes."}
+{"instruction": "¿Qué es backpropagation?", "input": "", "output": "Es el algoritmo que ajusta los pesos de una red neuronal para reducir el error."}
+{"instruction": "¿Qué es un árbol binario?", "input": "", "output": "Es una estructura de datos donde cada nodo tiene como máximo dos hijos."}
+{"instruction": "¿Qué es un grafo no dirigido?", "input": "", "output": "Es un grafo donde las conexiones no tienen dirección específica."}
+{"instruction": "¿Qué es una neurona artificial?", "input": "", "output": "Es una unidad básica de una red neuronal que procesa información y produce una salida."}
+{"instruction": "¿Qué es una función?", "input": "", "output": "Es un bloque de código que realiza una tarea específica y puede reutilizarse."}
+{"instruction": "¿Qué es un grafo dirigido?", "input": "", "output": "Es un grafo donde las aristas tienen dirección, indicando un sentido de conexión."}
+{"instruction": "¿Qué es un arreglo?", "input": "", "output": "Un arreglo es una estructura de datos que almacena elementos en posiciones consecutivas de memoria."}
+{"instruction": "¿En qué problemas se usa backtracking?", "input": "", "output": "Se usa en problemas como el de las N reinas, laberintos y combinaciones."}
+{"instruction": "¿Qué es BFS en estructuras de datos?", "input": "", "output": "BFS (Breadth-First Search) es un algoritmo que recorre un grafo visitando primero los nodos más cercanos antes de avanzar a niveles más profundos."}
+{"instruction": "Explícame la búsqueda binaria como profesor.", "input": "", "output": "La búsqueda binaria funciona solo con listas ordenadas.\nLa idea es dividir la lista a la mitad en cada paso.\nPrimero se revisa el elemento central y se compara con el valor buscado.\nDependiendo del resultado, se descarta la mitad que no sirve.\nEsto hace que sea mucho más rápida que la búsqueda lineal."}
+{"instruction": "¿Qué es la recursión?", "input": "", "output": "La recursión es cuando una función se llama a sí misma para resolver un problema dividiéndolo en partes más pequeñas."}
+{"instruction": "¿Qué es Python?", "input": "", "output": "Python es un lenguaje de programación interpretado, sencillo y muy usado en ciencia de datos e IA."}
+{"instruction": "¿Qué es un lenguaje interpretado?", "input": "", "output": "Es un lenguaje que se ejecuta línea por línea sin compilarse previamente."}
+{"instruction": "¿Qué es una red neuronal?", "input": "", "output": "Es un modelo inspirado en el cerebro humano que aprende patrones a partir de datos."}
+{"instruction": "¿Por qué es importante documentar código?", "input": "", "output": "Porque facilita que otras personas (y tú mismo) entiendan y mantengan el programa."}
+{"instruction": "¿Qué es NLP?", "input": "", "output": "NLP es el procesamiento de lenguaje natural, un área que permite a las máquinas entender texto humano."}
+{"instruction": "Explícame qué es un modelo de lenguaje de forma sencilla.", "input": "", "output": "Un modelo de lenguaje es un sistema que aprende patrones del texto.\nAnaliza grandes cantidades de datos para entender cómo se usa el lenguaje.\nCon eso, puede generar respuestas coherentes.\nNo piensa como un humano, solo predice la siguiente palabra.\nAun así, puede ser muy útil como herramienta educativa."}
+{"instruction": "¿Qué es heap sort?", "input": "", "output": "Heap sort ordena datos usando un heap para extraer repetidamente el elemento más grande o más pequeño."}
+{"instruction": "¿Qué es el algoritmo A*?", "input": "", "output": "A* es un algoritmo de búsqueda que usa heurísticas para encontrar el camino más corto de forma eficiente."}
+{"instruction": "¿Qué es batch size?", "input": "", "output": "Batch size es la cantidad de ejemplos que el modelo procesa antes de actualizar sus pesos."}
+{"instruction": "¿Qué es una tabla hash?", "input": "", "output": "Una tabla hash es una estructura que almacena datos usando claves y permite búsquedas muy rápidas."}
+{"instruction": "¿Qué es un ciclo en un grafo?", "input": "", "output": "Es un camino que comienza y termina en el mismo nodo."}
+{"instruction": "¿Qué es una referencia?", "input": "", "output": "Es una forma de acceder a un dato sin copiarlo, usando su ubicación original."}
+{"instruction": "Explícame DFS como profesor.", "input": "", "output": "DFS explora un camino lo más profundo posible antes de retroceder.\nImagina que recorres un laberinto sin regresar hasta que ya no puedas avanzar.\nEste algoritmo usa una pila o recursión.\nEs muy útil para explorar todas las posibilidades de un problema.\nCada enfoque tiene ventajas dependiendo del contexto."}
+{"instruction": "¿Qué es la distancia Manhattan?", "input": "", "output": "Es una medida de distancia que suma los movimientos horizontales y verticales en una cuadrícula."}
+{"instruction": "¿Qué es complejidad espacial?", "input": "", "output": "Es la cantidad de memoria que un algoritmo necesita según el tamaño de la entrada."}
+{"instruction": "¿Para qué sirve bubble sort?", "input": "", "output": "Bubble sort sirve para ordenar listas comparando elementos vecinos e intercambiándolos si están en el orden incorrecto."}
+{"instruction": "Explícame qué es un algoritmo como si tuviera 10 años.", "input": "", "output": "Un algoritmo es como una receta: te dice paso a paso qué hacer para lograr algo, como preparar un sándwich o resolver un problema."}
+{"instruction": "Explícame qué es una pila usando un ejemplo cotidiano.", "input": "", "output": "Una pila funciona como una torre de platos.\nSolo puedes colocar un plato encima o quitar el que está arriba.\nEsto se conoce como último en entrar, primero en salir.\nEn programación, las pilas se usan para manejar llamadas a funciones.\nSon muy importantes para entender cómo se ejecutan los programas."}
+{"instruction": "¿Qué es un problema computacional?", "input": "", "output": "Un problema computacional es una tarea que puede resolverse usando un algoritmo y una computadora."}
+{"instruction": "¿Qué es un puntero?", "input": "", "output": "Un puntero es una variable que almacena la dirección de memoria de otro dato."}
+{"instruction": "¿Qué es Git?", "input": "", "output": "Git es una herramienta de control de versiones muy usada en desarrollo de software."}
+{"instruction": "Explica la búsqueda binaria de forma sencilla.", "input": "", "output": "Imagina que buscas una palabra en un diccionario: abres justo a la mitad y decides si ir a la izquierda o a la derecha. Eso es búsqueda binaria."}
+{"instruction": "¿Qué es un epoch en entrenamiento?", "input": "", "output": "Un epoch es una pasada completa del modelo por todo el conjunto de entrenamiento."}
+{"instruction": "Explícame la diferencia entre BFS y DFS.", "input": "", "output": "BFS explora primero los nodos cercanos, mientras que DFS va profundo primero.\nBFS suele encontrar el camino más corto.\nDFS usa menos memoria en algunos casos.\nAmbos recorren grafos, pero con estrategias diferentes.\nElegir uno depende del problema que quieras resolver."}
+{"instruction": "¿Qué es un modelo no supervisado?", "input": "", "output": "Es un modelo que encuentra patrones en datos sin etiquetas previas."}
+{"instruction": "¿Qué es backtracking?", "input": "", "output": "Backtracking es una técnica que prueba soluciones y retrocede cuando una opción no funciona."}
+{"instruction": "¿Qué es LoRA?", "input": "", "output": "LoRA es una técnica de fine-tuning que ajusta pocos parámetros para entrenar modelos grandes de forma eficiente."}
+{"instruction": "¿Qué es una solución óptima en algoritmos?", "input": "", "output": "Es la mejor solución posible según los criterios del problema, como menor tiempo o menor costo."}
+{"instruction": "¿Qué es un modelo supervisado?", "input": "", "output": "Es un modelo que aprende usando datos etiquetados, donde se conoce la respuesta correcta."}
+{"instruction": "Explícame la diferencia entre un algoritmo eficiente y uno ineficiente.", "input": "", "output": "Un algoritmo eficiente resuelve un problema usando la menor cantidad posible de tiempo y memoria.\nEn cambio, un algoritmo ineficiente puede tardar mucho más o usar demasiados recursos.\nAunque ambos pueden dar el mismo resultado, el costo computacional es muy diferente.\nEn problemas pequeños la diferencia casi no se nota, pero en problemas grandes es crucial.\nPor eso, al diseñar algoritmos, no solo importa que funcionen, sino cómo lo hacen."}
+{"instruction": "Explícame por qué es importante el preprocesamiento.", "input": "", "output": "El preprocesamiento prepara los datos antes del entrenamiento.\nAquí se limpia, organiza y estructura la información.\nUn mal preprocesamiento puede arruinar el entrenamiento.\nUn buen preprocesamiento mejora los resultados.\nEs una etapa crítica en cualquier proyecto de IA."}
+{"instruction": "¿Qué es overfitting?", "input": "", "output": "Overfitting ocurre cuando un modelo aprende demasiado los datos de entrenamiento y falla al generalizar."}
+{"instruction": "¿Qué es un nodo hoja?", "input": "", "output": "Un nodo hoja es un nodo que no tiene hijos en un árbol."}
+{"instruction": "¿Qué es un hiperparámetro?", "input": "", "output": "Es un valor que se define antes del entrenamiento y controla cómo aprende el modelo."}
+{"instruction": "¿Qué es un hash?", "input": "", "output": "Un hash es una función que convierte datos en un valor fijo, usado para búsquedas rápidas."}
+{"instruction": "¿Qué es modularidad en programación?", "input": "", "output": "Es dividir un programa en partes pequeñas y manejables para facilitar su mantenimiento."}
+{"instruction": "¿Qué es un error lógico?", "input": "", "output": "Es un error donde el programa funciona, pero produce resultados incorrectos."}
+{"instruction": "Explícame por qué es importante probar el código.", "input": "", "output": "Probar el código ayuda a detectar errores antes de que causen problemas.\nLas pruebas aseguran que cada parte funcione como se espera.\nTambién facilitan hacer cambios sin romper el programa.\nEn proyectos grandes, las pruebas son esenciales.\nSon una parte clave del desarrollo profesional."}
+{"instruction": "Explícame qué es inferencia en IA.", "input": "", "output": "La inferencia es cuando el modelo ya entrenado se usa para responder preguntas.\nEn esta etapa, el modelo no aprende, solo aplica lo que sabe.\nEs el momento en que interactúas con él.\nPor ejemplo, cuando haces una pregunta en una app.\nAquí es donde ves los resultados del entrenamiento."}
+{"instruction": "¿Qué es debugging?", "input": "", "output": "Debugging es el proceso de encontrar y corregir errores en un programa."}
+{"instruction": "¿Qué es un dataset?", "input": "", "output": "Un dataset es un conjunto de datos usado para entrenar o evaluar modelos."}
+{"instruction": "¿Qué es una cola (queue)?", "input": "", "output": "Una cola es una estructura de datos que sigue el principio FIFO: el primero en entrar es el primero en salir."}
+{"instruction": "¿Qué es inferencia en IA?", "input": "", "output": "La inferencia es el proceso donde un modelo entrenado genera respuestas a nuevas preguntas."}
+{"instruction": "¿Qué es la complejidad temporal?", "input": "", "output": "La complejidad temporal mide cuánto tiempo tarda un algoritmo en ejecutarse según el tamaño de la entrada."}
+{"instruction": "Explícame qué es una cola de forma sencilla.", "input": "", "output": "Una cola funciona como una fila de personas.\nLa primera persona que llega es la primera en ser atendida.\nEn programación, esto se llama primero en entrar, primero en salir.\nLas colas se usan mucho en sistemas de turnos y procesos.\nAyudan a organizar tareas de forma ordenada."}
+{"instruction": "¿Qué hace un tokenizer?", "input": "", "output": "Un tokenizer convierte texto en tokens que el modelo puede entender."}
+{"instruction": "¿Qué es selection sort?", "input": "", "output": "Selection sort busca el elemento más pequeño y lo coloca en su posición correcta, repitiendo el proceso."}
+{"instruction": "¿Qué es un error de sintaxis?", "input": "", "output": "Es un error causado por escribir código que no sigue las reglas del lenguaje."}
+{"instruction": "¿Qué es quicksort?", "input": "", "output": "Quicksort es un algoritmo eficiente que ordena una lista dividiéndola alrededor de un pivote."}
+{"instruction": "¿Para qué sirve el orden topológico?", "input": "", "output": "Sirve para ordenar nodos de un DAG respetando las dependencias entre ellos."}
+{"instruction": "Explícame BFS de manera didáctica.", "input": "", "output": "BFS es un algoritmo que explora un grafo por niveles.\nPrimero visita todos los nodos cercanos antes de avanzar más lejos.\nImagina que buscas algo expandiéndote en círculos.\nPara lograrlo, BFS usa una cola.\nEs ideal para encontrar el camino más corto en grafos no ponderados."}
+{"instruction": "¿Qué es un grafo?", "input": "", "output": "Un grafo es una estructura formada por nodos y conexiones entre ellos, llamada aristas."}
+{"instruction":"¿Qué significa que un algoritmo sea eficiente?","input":"","output":"Un algoritmo eficiente resuelve un problema usando poco tiempo y poca memoria, incluso cuando los datos crecen."}
+{"instruction":"Explícame qué es un algoritmo recursivo.","input":"","output":"Un algoritmo recursivo es aquel que se resuelve llamándose a sí mismo con una versión más pequeña del problema."}
+{"instruction":"¿Para qué sirve la notación Big O?","input":"","output":"La notación Big O sirve para analizar cómo crece el tiempo o memoria de un algoritmo cuando aumentan los datos."}
+{"instruction":"Explícame qué es un grafo de forma sencilla.","input":"","output":"Un grafo es un conjunto de nodos conectados por aristas, usado para representar relaciones entre elementos."}
+{"instruction":"¿Cuál es la idea principal de BFS?","input":"","output":"BFS explora primero los nodos más cercanos antes de avanzar a niveles más profundos del grafo."}
+{"instruction":"¿Cuál es la idea principal de DFS?","input":"","output":"DFS explora un camino completo en profundidad antes de regresar y probar otras rutas."}
+{"instruction":"Explícame qué es una estructura de datos.","input":"","output":"Una estructura de datos es una forma organizada de almacenar información para usarla eficientemente."}
+{"instruction":"¿Por qué son importantes las estructuras de datos?","input":"","output":"Porque permiten que los algoritmos sean más rápidos, claros y eficientes al manejar información."}
+{"instruction":"Explícame qué es un algoritmo de ordenamiento.","input":"","output":"Un algoritmo de ordenamiento organiza elementos en un orden específico, como ascendente o descendente."}
+{"instruction":"¿Qué diferencia hay entre un array y una lista enlazada?","input":"","output":"Un array usa memoria continua, mientras que una lista enlazada conecta elementos mediante referencias."}
+{"instruction":"Explícame qué es la complejidad espacial.","input":"","output":"La complejidad espacial mide cuánta memoria necesita un algoritmo según el tamaño de los datos."}
+{"instruction":"¿Qué problema resuelve Dijkstra?","input":"","output":"Dijkstra encuentra el camino más corto desde un nodo a otros nodos en un grafo con pesos positivos."}
+{"instruction":"Explícame qué es una cola de prioridad.","input":"","output":"Una cola de prioridad es una estructura donde los elementos se atienden según su prioridad, no por orden de llegada."}
+{"instruction":"¿Por qué quicksort es eficiente?","input":"","output":"Quicksort divide el problema en partes más pequeñas, lo que reduce mucho el tiempo de ordenamiento en promedio."}
+{"instruction":"Explícame qué es un algoritmo determinista.","input":"","output":"Un algoritmo determinista siempre produce el mismo resultado con la misma entrada."}
+{"instruction":"¿Qué es un algoritmo no determinista?","input":"","output":"Es un algoritmo que puede seguir diferentes caminos de ejecución para la misma entrada."}
+{"instruction":"Explícame qué es la técnica divide y vencerás.","input":"","output":"Divide y vencerás consiste en dividir un problema grande en partes pequeñas, resolverlas y combinar resultados."}
+{"instruction":"¿En qué casos se usa programación dinámica?","input":"","output":"Se usa cuando un problema tiene subproblemas repetidos y se pueden reutilizar sus soluciones."}
+{"instruction":"Explícame qué es memoización.","input":"","output":"Memoización es guardar resultados de subproblemas para no volver a calcularlos."}
+{"instruction":"¿Qué ventaja tiene usar DFS?","input":"","output":"DFS usa menos memoria en algunos casos y es útil para explorar todas las posibilidades de un problema."}
+{"instruction":"¿Qué ventaja tiene usar BFS?","input":"","output":"BFS garantiza encontrar el camino más corto en grafos no ponderados."}
+{"instruction":"Explícame qué es un DAG.","input":"","output":"Un DAG es un grafo dirigido que no contiene ciclos."}
+{"instruction":"¿Para qué sirve el ordenamiento topológico?","input":"","output":"Sirve para ordenar tareas respetando dependencias entre ellas."}
+{"instruction":"Explícame qué es un problema NP.","input":"","output":"Un problema NP es aquel cuya solución puede verificarse rápidamente, aunque encontrarla sea difícil."}
+{"instruction":"¿Qué es un algoritmo heurístico?","input":"","output":"Un algoritmo heurístico busca soluciones rápidas, aunque no siempre sean las mejores posibles."}
+{"instruction":"Explícame qué es backtracking de forma sencilla.","input":"","output":"Backtracking prueba soluciones paso a paso y retrocede cuando una opción no funciona."}
+{"instruction":"¿Por qué es importante el caso base en recursión?","input":"","output":"Porque evita que la función se llame infinitamente y detiene la recursión."}
+{"instruction":"Explícame qué es una búsqueda lineal.","input":"","output":"La búsqueda lineal revisa uno por uno los elementos hasta encontrar el buscado."}
+{"instruction":"¿Cuándo usar búsqueda binaria?","input":"","output":"Se usa cuando los datos están ordenados y se quiere buscar de forma eficiente."}
+{"instruction":"Explícame qué es un heap.","input":"","output":"Un heap es una estructura que permite acceder rápidamente al valor máximo o mínimo."}
+{"instruction":"¿Qué es un algoritmo greedy?","input":"","output":"Un algoritmo greedy toma la mejor decisión local esperando que lleve a una solución global."}
+{"instruction":"Explícame qué es un problema de optimización.","input":"","output":"Es un problema donde se busca la mejor solución entre muchas posibles según ciertos criterios."}
+{"instruction":"¿Qué significa que un algoritmo escale bien?","input":"","output":"Significa que sigue funcionando eficientemente aunque el tamaño de los datos aumente mucho."}
+{"instruction":"Explícame qué es una función recursiva.","input":"","output":"Es una función que se llama a sí misma para resolver un problema por partes."}
+{"instruction":"¿Por qué es importante analizar algoritmos?","input":"","output":"Porque ayuda a elegir la mejor solución antes de programar, ahorrando tiempo y recursos."}
+{"instruction":"Explícame qué es una tabla hash de forma didáctica.","input":"","output":"Una tabla hash guarda datos usando claves para permitir búsquedas casi inmediatas."}
+{"instruction":"¿Qué es un algoritmo estable?","input":"","output":"Un algoritmo estable mantiene el orden relativo de elementos iguales al ordenar."}
+{"instruction":"Explícame qué es un árbol balanceado.","input":"","output":"Un árbol balanceado mantiene alturas similares para que las operaciones sean eficientes."}
+{"instruction":"¿Qué es un recorrido in-order?","input":"","output":"Es un recorrido de árbol que visita izquierda, raíz y derecha."}
+{"instruction":"Explícame qué es un recorrido pre-order.","input":"","output":"Es un recorrido que visita primero la raíz y luego los hijos."}
+{"instruction":"¿Qué es un recorrido post-order?","input":"","output":"Es un recorrido que visita primero los hijos y al final la raíz."}
+{"instruction":"Explícame qué es un algoritmo iterativo.","input":"","output":"Un algoritmo iterativo resuelve un problema repitiendo pasos usando ciclos hasta cumplir una condición."}
+{"instruction":"¿Cuál es la diferencia entre iteración y recursión?","input":"","output":"La iteración usa ciclos, mientras que la recursión usa funciones que se llaman a sí mismas."}
+{"instruction":"Explícame qué es un problema de decisión.","input":"","output":"Un problema de decisión es aquel cuya respuesta es sí o no."}
+{"instruction":"¿Qué es un algoritmo aproximado?","input":"","output":"Es un algoritmo que busca una solución cercana a la óptima cuando la exacta es muy costosa."}
+{"instruction":"Explícame qué es un grafo ponderado.","input":"","output":"Un grafo ponderado es aquel donde las aristas tienen un peso o costo asociado."}
+{"instruction":"¿Qué es una arista en un grafo?","input":"","output":"Una arista es la conexión entre dos nodos dentro de un grafo."}
+{"instruction":"Explícame qué es un nodo raíz.","input":"","output":"El nodo raíz es el nodo principal desde donde inicia un árbol."}
+{"instruction":"¿Qué significa que un árbol sea completo?","input":"","output":"Un árbol completo es aquel donde todos los niveles están llenos, excepto quizá el último."}
+{"instruction":"Explícame qué es un árbol degenerado.","input":"","output":"Un árbol degenerado es un árbol que se comporta como una lista enlazada."}
+{"instruction":"¿Qué es una operación básica en análisis de algoritmos?","input":"","output":"Es la operación que más se repite y se usa para estimar el costo del algoritmo."}
+{"instruction":"Explícame qué es el peor caso de un algoritmo.","input":"","output":"El peor caso es el escenario donde el algoritmo tarda más tiempo o usa más recursos."}
+{"instruction":"¿Qué es el mejor caso de un algoritmo?","input":"","output":"El mejor caso es cuando el algoritmo se ejecuta de la forma más rápida posible."}
+{"instruction":"Explícame qué es el caso promedio.","input":"","output":"El caso promedio representa el comportamiento esperado del algoritmo en situaciones normales."}
+{"instruction":"¿Qué es un algoritmo estable de ordenamiento?","input":"","output":"Es un algoritmo que conserva el orden original de los elementos iguales."}
+{"instruction":"Explícame qué es counting sort.","input":"","output":"Counting sort ordena elementos contando cuántas veces aparece cada valor."}
+{"instruction":"¿Qué es radix sort?","input":"","output":"Radix sort ordena números procesando sus dígitos uno por uno."}
+{"instruction":"Explícame qué es merge sort.","input":"","output":"Merge sort divide la lista en partes, las ordena y luego las combina."}
+{"instruction":"¿Por qué merge sort es eficiente?","input":"","output":"Porque divide el problema en mitades, logrando una complejidad O(n log n)."}
+{"instruction":"Explícame qué es un algoritmo de búsqueda.","input":"","output":"Un algoritmo de búsqueda sirve para encontrar un elemento dentro de una estructura de datos."}
+{"instruction":"¿Qué es un conjunto disjunto?","input":"","output":"Es una estructura que mantiene grupos separados y permite unirlos eficientemente."}
+{"instruction":"Explícame qué es Union-Find.","input":"","output":"Union-Find es una estructura usada para manejar conjuntos disjuntos de forma eficiente."}
+{"instruction":"¿Qué es compresión de caminos?","input":"","output":"Es una técnica que acelera Union-Find reduciendo la altura de los árboles."}
+{"instruction":"Explícame qué es una heurística admisible.","input":"","output":"Es una heurística que nunca sobreestima el costo real hacia la solución."}
+{"instruction":"¿Por qué A* es óptimo?","input":"","output":"Porque usa una heurística admisible que garantiza encontrar el mejor camino."}
+{"instruction":"Explícame qué es una matriz de adyacencia.","input":"","output":"Es una matriz que indica qué nodos están conectados en un grafo."}
+{"instruction":"¿Qué es una lista de adyacencia?","input":"","output":"Es una estructura que guarda para cada nodo sus vecinos en un grafo."}
+{"instruction":"Explícame cuándo usar lista de adyacencia.","input":"","output":"Se usa cuando el grafo es grande y tiene pocas conexiones."}
+{"instruction":"¿Qué es un algoritmo de fuerza bruta?","input":"","output":"Es un algoritmo que prueba todas las soluciones posibles sin optimización."}
+{"instruction":"Explícame qué es poda en algoritmos.","input":"","output":"La poda evita explorar caminos que no llevan a una solución válida."}
+{"instruction":"¿Qué es branch and bound?","input":"","output":"Es una técnica que reduce la búsqueda usando límites para descartar soluciones malas."}
+{"instruction":"Explícame qué es un problema de búsqueda.","input":"","output":"Es un problema donde se busca una solución dentro de un espacio de estados."}
+{"instruction":"¿Qué es un estado en algoritmos?","input":"","output":"Un estado representa una situación específica del problema."}
+{"instruction":"Explícame qué es un espacio de estados.","input":"","output":"Es el conjunto de todos los estados posibles de un problema."}
+{"instruction":"¿Qué es una función de costo?","input":"","output":"Es una función que mide qué tan buena o mala es una solución."}
+{"instruction":"Explícame qué es un algoritmo online.","input":"","output":"Es un algoritmo que toma decisiones sin conocer todos los datos futuros."}
+{"instruction":"¿Qué es un algoritmo offline?","input":"","output":"Es un algoritmo que conoce toda la información antes de ejecutarse."}
+{"instruction":"Explícame qué es complejidad amortizada.","input":"","output":"Mide el costo promedio de una operación a lo largo de muchas ejecuciones."}
+{"instruction":"¿Qué es una pila de llamadas?","input":"","output":"Es la estructura que guarda las funciones activas durante la ejecución."}
+{"instruction":"Explícame por qué DFS usa pila.","input":"","output":"Porque necesita recordar los nodos anteriores al explorar en profundidad."}
+{"instruction":"¿Por qué BFS usa cola?","input":"","output":"Porque necesita procesar los nodos en el orden en que se descubren."}
+{"instruction":"Explícame qué es un algoritmo óptimo.","input":"","output":"Es un algoritmo que siempre produce la mejor solución posible."}
+{"instruction":"¿Qué es un problema indecidible?","input":"","output":"Es un problema para el cual no existe algoritmo que lo resuelva siempre."}
+{"instruction":"Explícame qué es la tesis de Church-Turing.","input":"","output":"Establece qué problemas pueden resolverse mediante algoritmos."}
+{"instruction":"¿Qué es un algoritmo polinomial?","input":"","output":"Es un algoritmo cuyo tiempo de ejecución crece como una potencia de n."}
+{"instruction":"Explícame qué significa P vs NP.","input":"","output":"Es una pregunta sobre si todos los problemas verificables rápidamente pueden resolverse rápido."}
